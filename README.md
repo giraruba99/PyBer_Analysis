@@ -12,7 +12,9 @@
 ## Result and Analysis:
  ### Results per city type:-
  * Urban Cities: As we may have expected urban cities got the highest number of drivers, total rides and total fares. But, due to short distances per each trip, average fare per ride is the lowest in urban cities. And offcourse, each driver gets the lowest average fare compared to other city types.
+ 
 * Suburban cities: Suburban cities got results in between Urban and Rural cities. The total rides, drivers and total fares are more than of th Rural cities, but much lower than Urban cities. On the other side though, average fares per ride and average fares per driver are more than of Urban cities, but lower than Rural cities.
+
 * Rural cities: Rural cities are less dense, thus they tend to have less number of fares, few drivers and low amount fare totals. But, since each trip is usually long, the average fare per ride and average fare per driver is vsisbly higher than Urban and Suburban cities.
 
 ![Pyber sumarry DataFrame](https://user-images.githubusercontent.com/89214854/137615129-666382e6-69b1-4aaa-af5a-86e8e3f98b04.png)
